@@ -1,0 +1,26 @@
+{
+  "name": "getting-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node exec-jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvarChuniak/getting-functional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingvarChuniak/getting-functional/issues"
+  },
+  "homepage": "https://github.com/ingvarChuniak/getting-functional#readme",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
