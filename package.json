@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ingvarChuniak/getting-functional#readme",
   "devDependencies": {
-    "jasmine": "^3.7.0"
+    "jasmine": "^3.7.0",
+    "prettier": "2.3.1"
   }
 }
