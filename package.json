@@ -8,7 +8,9 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "node exec-jasmine.js"
+    "test": "node exec-jasmine.js",
+    "prettify": "npx prettier --write .",
+    "check-prettier": "npx prettier --check ."
   },
   "repository": {
     "type": "git",
